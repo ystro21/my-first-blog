@@ -1,0 +1,20 @@
+myvenv\Scripts\activate - uruchamianie myven virtual
+python manage.py runserver - uruchamianie serwera
+http://ystro21.pythonanywhere.com/ - serwer mój oficjany
+Do gita:
+git status
+git add --all .
+git status
+git commit -m ""
+git push
+
+Bash console PythonAnywhere
+cd ~/ystro21.pythonanywhere.com
+git pull
+Na koniec przejdź do strony "Web" i naciśnij Reload.
+
+https://www.pythonanywhere.com/login/
+login: ystro21
+
+ADMIN:
+login: Grzegorz
